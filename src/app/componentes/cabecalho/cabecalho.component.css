@@ -1,0 +1,34 @@
+header {
+  background-color: var(--primaria);
+  height: 96px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content:space-around;
+  font-family: 'Poppins', sans-serif;
+}
+
+header a {
+  text-decoration: none;
+  color: var(--branco);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  margin-right: 1.5rem;
+  width: 79px;
+  height: 48px;
+}
+
+button {
+  background-color: var(--primaria);
+  cursor: pointer;
+  border: none;
+}
+
+.logo{
+  color: var(--branco);
+  font-weight: 400;
+}
+
+
